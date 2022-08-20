@@ -1,6 +1,11 @@
 body{
     background-image: url("https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg");
 }
+hr{
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
 .menu{
     width: 80%;
     max-width: 500px;
@@ -16,7 +21,13 @@ p{
     text-align: center;
 }
 h1, h2{
-    font-family: Impact;
+    font-family: Impact, serif;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
 }
 .item>p{
     display: inline-block;
@@ -30,3 +41,6 @@ h1, h2{
     text-align: right;
     width: 25%;
 }
+.established{
+    font-style: italic;
+  }
