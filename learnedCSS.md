@@ -12,6 +12,8 @@
     * external css
     * link CSS file
     * mobile version -> < meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    * < article> -> article elements commonly contain multiple elements that have related information.
+    
     
 
 ![End Banner](/Documentation/botton-1200x350.gif)
