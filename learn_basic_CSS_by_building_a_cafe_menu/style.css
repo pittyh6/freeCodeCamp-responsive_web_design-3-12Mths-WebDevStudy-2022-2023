@@ -16,6 +16,14 @@ hr{
     padding: 20px;
     font-family: sans-serif;
 }
+h1{
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+h2{
+    font-size: 30px;
+}
 h1,
 h2,
 p{
@@ -23,12 +31,6 @@ p{
 }
 h1, h2{
     font-family: Impact, serif;
-}
-h1{
-    font-size: 40px;
-}
-h2{
-    font-size: 30px;
 }
 .item>p{
     display: inline-block;
@@ -56,4 +58,19 @@ h2{
 /* FOOTER */
 footer{
     font-size:14px;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:active{
+    color: brown;
+}
+a:hover{
+    color: brown;
+}
+.address{
+    margin-bottom: 5px;
 }
