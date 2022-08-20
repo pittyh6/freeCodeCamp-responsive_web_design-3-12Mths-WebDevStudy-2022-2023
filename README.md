@@ -17,12 +17,8 @@
 * SASS [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
 -->
 
-<!-- ## Project + Result
-* Desktop
-![Begin Banner](/Documentation/desktop-result.gif)
-
-* Mobile
-![Begin Banner](/Documentation/mobile-result.gif) -->
+ ## Project + Result
+* Learn HTML by Building a Cat Photo App [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_HTML_by_building_a_cat_photo_app)
 
 
 ## Previous Projects
