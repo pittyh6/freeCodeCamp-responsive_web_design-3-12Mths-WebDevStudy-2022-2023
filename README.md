@@ -8,13 +8,13 @@
 * Online courses, challenges and creation of my own projects.
 
 ## What I learned/used (Link for details)
+* Projects [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023)
+* CSS [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedCSS.md)
+* HTML [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
+* Resources [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedResources.md)
 <!-- 
-* Projects [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023)
-* SASS [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
-* CSS [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedCSS.md)
-* HTML [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
-* Resources [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedResources.md)
-* JavaScript [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
+* JavaScript [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
+* SASS [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
 -->
 
 <!-- ## Project + Result
@@ -38,7 +38,7 @@
 
 
 ## Management Tools
-* Jira(Sprints) [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/tree/master/Sprint)
+* Jira(Sprints) [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/Sprint)
 
 ## Tools
 <img src= Documentation/jira.png  height="90" width="100" ><img src= Documentation/vscode.png  height="90" width="100"><img src= Documentation/html.png  height="90" width="90"><img src= Documentation/css.png  height="90" width="90"><img src= Documentation/photoshop.png  height="90" width="100"><img src= Documentation/js.png  height="90" width="100"><img src= Documentation/jquery.png  height="90" width="100">
