@@ -20,6 +20,9 @@
     * background-image
     * img 
     * display
+    * class
+    * id
+    
 
     
 
