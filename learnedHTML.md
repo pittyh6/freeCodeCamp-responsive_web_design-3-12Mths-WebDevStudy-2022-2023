@@ -8,7 +8,29 @@
 ## What I learned/used 
 ### HTML
 * Hyper Text Markup Language
+    * Only use ONE < h1> per page
+    * indentation
+    * < main>
+    * < section>
+    * < form>
+    * < h1> to < h6>
+    * < p>
+    * comment < !-- -->
+    * < img>
+    * all img elements should HAVE an ALT attribute
+    * < figure>
+    * < figcaption> A figure caption (figcaption) element is used to add a caption to describe the image contained within the figure element
+    * < em>
+    * < strong>
+    * < input>
+    * radio -> type="radio"
+    * name=""
+    * value=""
+    * id
+    * < fieldset>
     
+
+
         
    
 
