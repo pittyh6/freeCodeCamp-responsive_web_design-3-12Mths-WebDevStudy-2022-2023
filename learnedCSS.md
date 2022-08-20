@@ -18,7 +18,8 @@
     * padding
     * background-color
     * background-image
-    
+    * img 
+    * display
 
     
 

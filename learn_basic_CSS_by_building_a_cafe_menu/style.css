@@ -54,6 +54,12 @@ h1, h2{
 .bottom-line{
     margin-top: 25px;
 }
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
 
 /* FOOTER */
 footer{
