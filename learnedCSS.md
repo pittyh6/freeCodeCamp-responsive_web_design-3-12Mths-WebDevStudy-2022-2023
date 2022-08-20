@@ -8,6 +8,10 @@
 ## What I learned/used 
 ### CSS 
 * Cascading Style Sheets (CSS) 
+    * internal css
+    * external css
+    * link CSS file
+    * mobile version -> < meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
 
 ![End Banner](/Documentation/botton-1200x350.gif)
