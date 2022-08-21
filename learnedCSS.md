@@ -52,7 +52,7 @@
     * width of unset. -> This will remove the earlier rule which set all the input elements to width: 100%.
     * attribute selector -> selects an element based on the given attribute value
         * input[name="password"]
-        
+    * box-model -> In the CSS box model, every HTML element is treated as a box with four areas.
         
 
 
