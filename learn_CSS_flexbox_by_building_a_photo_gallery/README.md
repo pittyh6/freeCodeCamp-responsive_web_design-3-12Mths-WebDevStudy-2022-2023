@@ -1,4 +1,4 @@
 # Result
 
-![Begin Banner](cat.gif)
+![Begin Banner](gallery.gif)
 
