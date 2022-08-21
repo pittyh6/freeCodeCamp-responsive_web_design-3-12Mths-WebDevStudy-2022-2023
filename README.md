@@ -8,11 +8,11 @@
 * Online courses, challenges and creation of my own projects.
 
 ## What I learned/used (Link for details)
-* Projects [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023)
 * CSS [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedCSS.md)
 * HTML [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
 * Resources [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedResources.md)
 <!-- 
+* Projects [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023)
 * JavaScript [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
 * SASS [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
 -->
@@ -21,6 +21,7 @@
 * Learn HTML by Building a Cat Photo App [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_HTML_by_building_a_cat_photo_app)
 * Learn Basic CSS by Building a Cafe Menu [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_basic_CSS_by_building_a_cafe_menu)
 * Learn CSS Colors by Building a Set of Colored Markers [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_CSS_colors_by_building_a_set_of_colored_markers)
+* Learn HTML Forms by Building a Registration Form [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_HTML_forms_by_building_a_registration_form)
 
 
 ## Previous Projects
