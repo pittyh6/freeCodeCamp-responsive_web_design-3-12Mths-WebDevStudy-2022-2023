@@ -50,7 +50,9 @@
         * visited
         * last-of-type
     * width of unset. -> This will remove the earlier rule which set all the input elements to width: 100%.
-    
+    * attribute selector -> selects an element based on the given attribute value
+        * input[name="password"]
+        
         
 
 
