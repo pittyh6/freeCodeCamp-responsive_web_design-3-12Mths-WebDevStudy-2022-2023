@@ -22,7 +22,7 @@
 * Learn Basic CSS by Building a Cafe Menu [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_basic_CSS_by_building_a_cafe_menu)
 * Learn CSS Colors by Building a Set of Colored Markers [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_CSS_colors_by_building_a_set_of_colored_markers)
 * Learn HTML Forms by Building a Registration Form [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_HTML_forms_by_building_a_registration_form)
-* 👩🏻‍🎓 Certification Project - Survey Form [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/survey_form)
+* 🥇👩🏻‍🎓🎯 Certification Project - Survey Form [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/survey_form)
 * Learn the CSS Box Model by Building a Rothko Painting [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_the_CSS_box_model_by_building_a_rothko_painting)
 * Learn CSS Flexbox by Building a Photo Gallery [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_CSS_flexbox_by_building_a_photo_gallery)
 
