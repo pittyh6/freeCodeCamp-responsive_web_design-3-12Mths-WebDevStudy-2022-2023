@@ -33,6 +33,12 @@
             * Color-stops allow you to fine-tune where colors are placed along the gradient line. They are a length unit like px or percentages that follow a color in the linear-gradient function.
         * opacity -> With the value 0, or 0%, the element will be completely transparent, and at 1.0, or 100%
         * alpha channel -> alpha channel controls how transparent or opaque a color is. add an alpha channel to the other CSS color properties.
+    * border
+    * box-shadow -> property lets you apply one or more shadows around an element.
+        * box-shadow: offsetX offsetY color;
+        * blurRadius ->  box-shadow: offsetX offsetY blurRadius color;
+        * spreadRadius -> box-shadow: offsetX offsetY blurRadius spreadRadius color;
+        
 
 
 
