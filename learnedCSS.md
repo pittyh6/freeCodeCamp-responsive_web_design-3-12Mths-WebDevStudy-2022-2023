@@ -38,6 +38,13 @@
         * box-shadow: offsetX offsetY color;
         * blurRadius ->  box-shadow: offsetX offsetY blurRadius color;
         * spreadRadius -> box-shadow: offsetX offsetY blurRadius spreadRadius color;
+    * form
+        * label
+        * input
+        * required
+        * minlength
+        * pattern="[a-z0-5]{8,}"
+        
         
 
 
