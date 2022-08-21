@@ -1,4 +1,4 @@
 # Result
 
-![Begin Banner](rothkp.png)
+![Begin Banner](rothko.png)
 
