@@ -44,7 +44,13 @@
         * required
         * minlength
         * pattern="[a-z0-5]{8,}"
-        
+    * pseudo-element
+        * hover
+        * active
+        * visited
+        * last-of-type
+    * width of unset. -> This will remove the earlier rule which set all the input elements to width: 100%.
+    
         
 
 
