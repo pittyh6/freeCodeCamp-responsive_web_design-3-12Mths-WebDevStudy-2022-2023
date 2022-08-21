@@ -1,4 +1,4 @@
 # Result
 
-![Begin Banner](survey.gif)
+![Begin Banner](rothkp.png)
 
