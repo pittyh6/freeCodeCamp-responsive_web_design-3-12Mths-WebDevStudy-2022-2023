@@ -4,8 +4,14 @@ body{
     height: 100vh;
     background-color: #1b1b32;
     color: #f5f6f7;
+    font-family: Tahoma;
+    font-size:16px;
 }
 label{
     display: block;
     margin: 0.5rem 0;
+}
+h1, p{
+    margin: 1em auto;
+    text-align: center;
 }

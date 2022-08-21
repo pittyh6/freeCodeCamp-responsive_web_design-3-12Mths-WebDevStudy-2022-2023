@@ -13,20 +13,30 @@
 
     <form action="https://register-demo.freecodecamp.org">
         <fieldset>
-            <label for="">Enter Your First Name: <input type="text" required></label>
-            <label for="">Enter Your Last Name: <input type="text" required></label>
-            <label for="">Enter Your Email: <input type="email" required></label>
-            <label for="">Create a New Password: <input type="password" pattern="[a-z0-5]{8,}" required></label>
+            <label for="">Enter Your First Name: <input type="text" required name="firstName"></label>
+            <label for="">Enter Your Last Name: <input type="text" required name="lastName"></label>
+            <label for="">Enter Your Email: <input type="email" required name="email"></label>
+            <label for="">Create a New Password: <input type="password" pattern="[a-z0-5]{8,}" required name="password"></label>
         </fieldset>
         <fieldset>
             <label for=""><input type="radio" name="account-type"> Personal Account</label>
             <label for=""><input type="radio" name="account-type"> Business Account</label>
-            <label for=""><input type="checkbox" required> I accept the <a href="https://www.freecodecamp.org/news/terms-of-service/
+            <label for=""><input type="checkbox" required name="termsConditions"> I accept the <a href="https://www.freecodecamp.org/news/terms-of-service/
                 ">terms and conditions</a> </label>
         </fieldset>
         <fieldset>
-            <label for=""> Upload a profile picture: <input type="file"></label>
-            <label for="">Input your age (years): <input type="number" min="13" max="120"></label>
+            <label for=""> Upload a profile picture: <input type="file" name="photo"></label>
+            <label for="">Input your age (years): <input type="number" min="13" max="120" name="age"></label>
+            <label for="">How did you hear about us?
+                <select name="selector" id="">
+                    <option value="" name="zero">(select one)</option>
+                    <option value="1" name="one">freeCodeCamp News</option>
+                    <option value="2" name="two">freeCodeCamp YouTube Channel</option>
+                    <option value="3" name="three">freeCodeCamp Forum</option>
+                    <option value="4" name="four">Other</option>
+                </select>
+            </label>
+            <label for="">Provide a bio: <textarea cols="30" rows="3" placeholder="I like coding on the beach..." name="bio"></textarea></label>
         </fieldset>
         <input type="submit" value="Submit">
     </form>
