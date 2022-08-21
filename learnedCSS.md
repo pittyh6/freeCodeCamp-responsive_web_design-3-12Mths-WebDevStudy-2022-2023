@@ -53,6 +53,8 @@
     * attribute selector -> selects an element based on the given attribute value
         * input[name="password"]
     * box-model -> In the CSS box model, every HTML element is treated as a box with four areas.
+    * filter: blur()
+    
         
 
 
