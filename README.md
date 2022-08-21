@@ -25,6 +25,7 @@
 * 🎯 Certification Project - Survey Form [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/survey_form) 🥇
 * Learn the CSS Box Model by Building a Rothko Painting [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_the_CSS_box_model_by_building_a_rothko_painting)
 * Learn CSS Flexbox by Building a Photo Gallery [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_CSS_flexbox_by_building_a_photo_gallery)
+* Learn Typography by Building a Nutrition Label [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_typography_by_building_a_nutrition_label)
 
 
 ## Previous Projects
