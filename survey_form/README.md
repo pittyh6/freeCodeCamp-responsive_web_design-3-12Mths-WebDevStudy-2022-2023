@@ -1,4 +1,4 @@
 # Result
 
-![Begin Banner](form.gif)
+![Begin Banner](survey.gif)
 
