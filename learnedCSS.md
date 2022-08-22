@@ -76,7 +76,10 @@
     * min() / max() 
         * font-size: min(5vw, 1.2em);
         * width:max(100px, 18vw);
-    * 
+    * The clip property lets you specify a rectangle to clip an absolutely positioned element. The rectangle is specified as four coordinates, all from the top-left corner of the element to be clipped.
+        * Note: The clip property does not work if "overflow:visible".
+        * Note: The clip property is deprecated and will be replaced by the clip-path property in the future.
+
         
 
 
