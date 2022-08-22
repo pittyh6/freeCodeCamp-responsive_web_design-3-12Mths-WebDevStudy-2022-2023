@@ -52,7 +52,7 @@
         * The ::after pseudo-element creates an element that is the last child of the selected element.
         * :not pseudo-selector can be used to select all elements that do not match the given CSS rule.
             * div:not(#example)
-            
+
     * width of unset. -> This will remove the earlier rule which set all the input elements to width: 100%.
     * attribute selector -> selects an element based on the given attribute value
         * input[name="password"]
@@ -70,7 +70,9 @@
         * The justify-content property determines how the items inside a flex container are positioned along the main axis, affecting their position and the space around them.
         * The align-items property positions the flex content along the cross axis. In this case, with your flex-direction set to row, your cross axis would be vertical.
         * object-fit: cover;
-    
+    * A useful property of an SVG (scalable vector graphics) is that it contains a path attribute which allows the image to be scaled without affecting the resolution of the resultant image.
+        *   width:max(100px, 18vw);
+    * The aspect-ratio CSS property sets a preferred aspect ratio for the box, which will be used in the calculation of auto sizes and some other layout functions.
         
 
 

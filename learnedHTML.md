@@ -31,6 +31,8 @@
     * < fieldset>
     * legend
     * checked -> select by default
+    * header element will be used to introduce the page, as well as provide a navigation menu.
+    * The main element will contain the core content of your page.
 
 
         
