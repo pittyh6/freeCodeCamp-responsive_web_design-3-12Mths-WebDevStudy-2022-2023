@@ -2,9 +2,13 @@ body{
 }
 header{
     width: 100%;
-    height: 50px;
-    background-color: #1b1b32;
-    display:flex;
+	height: 50px;
+	background-color: #1b1b32;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: fixed;
+	top:0;
 }
 
 #logo{
@@ -13,9 +17,13 @@ header{
     aspect-ratio: 35/4;
     padding: 0.4rem;
 }
-h1{
+h1 {
     color: #f1be32;
     font-size: min(5vw, 1.2em);
+    text-align: center;
+}
+main{
+    padding-top: 50px;
 }
 h2{
     border-bottom: 4px solid #dfdfe2;
@@ -29,7 +37,28 @@ p::before{
 nav > ul{
     display:flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-inline-start: 0;
+    margin-block: 0;
+    height: 100%;
 }
+nav > ul >li{
+    color: #dfdfe2;
+    margin: 0 0.2rem;
+    padding: 0.2rem;
+    display: block;
+}
+nav li:hover{
+    background-color: #dfdfe2;
+    cursor: pointer;
+	color: #1b1b32;
+}
+li > a {
+  color: inherit;
+	text-decoration: none;
+}
+
 .sr-only{
     position: absolute;
     width: 1px;
