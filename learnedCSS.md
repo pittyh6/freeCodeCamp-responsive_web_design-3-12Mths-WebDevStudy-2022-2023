@@ -50,6 +50,9 @@
         * visited
         * last-of-type
         * The ::after pseudo-element creates an element that is the last child of the selected element.
+        * :not pseudo-selector can be used to select all elements that do not match the given CSS rule.
+            * div:not(#example)
+            
     * width of unset. -> This will remove the earlier rule which set all the input elements to width: 100%.
     * attribute selector -> selects an element based on the given attribute value
         * input[name="password"]
