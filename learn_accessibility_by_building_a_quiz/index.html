@@ -35,8 +35,8 @@
                     <fieldset class="question" name="html-question-one">
                         <legend>The legend element represents a caption for the content of its parent fieldset element</legend>
                         <ul class="answers-list">
-                            <li><label for=""><input type="radio"></label></li>
-                            <li><label for=""><input type="radio"></label></li>
+                            <li><label for="html-true-one"><input id="html-true-one" type="radio" value="true" name="html-true-false-one">True</label></li>
+                            <li><label for="html-false-one"><input id="html-false-one"  type="radio" value="false" name="html-true-false-one">False</label></li>
                         </ul>
                     </fieldset>
                 </div>
@@ -45,14 +45,32 @@
                     <fieldset class="question"  name="html-question-two">
                         <legend>A label element nesting an input element is required to have a for attribute with the same value as the input's id</legend>
                         <ul class="answers-list">
-                            <li><label for=""><input type="radio"></label></li>
-                            <li><label for=""><input type="radio"></label></li>
+                            <li><label for="html-true-two"><input id="html-true-two" type="radio" value="true" name="html-true-false-two">True</label></li>
+                            <li><label for="html-false-two"><input id="html-false-two" type="radio" value="false" name="html-true-false-two">False</label></li>
                         </ul>
                     </fieldset>
                 </div>
             </section>
             <section role="region" aria-labelledby="css-questions">
                 <h2 id="css-questions">CSS questions</h2>
+                <div class="formrow">
+                    <div class="question-block">
+                        <label for="question-front-dev">Are you a frontend developer?</label>
+                    </div>
+                    <div class="answer">
+                        <select name="select-front-dev" id="question-front-dev" required>
+                            <option value="" >Select an option</option>
+                            <option value="yes">Yes</option>
+                            <option value="no">No</option>
+                        </select>
+                    </div>
+                    <div class="question-block">
+                        <label for="extra-question">Do you have any questions:</label>
+                    </div>
+                    <div class="answer">
+                        <textarea id="extra-question" name="textarea-extra-question" cols="30" rows="10" placeholder="... Is here like this..."></textarea>
+                    </div>
+                </div>
             </section>
         </form>
     </main>
