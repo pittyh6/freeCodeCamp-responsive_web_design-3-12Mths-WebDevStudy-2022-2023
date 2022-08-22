@@ -73,6 +73,10 @@
     * A useful property of an SVG (scalable vector graphics) is that it contains a path attribute which allows the image to be scaled without affecting the resolution of the resultant image.
         *   width:max(100px, 18vw);
     * The aspect-ratio CSS property sets a preferred aspect ratio for the box, which will be used in the calculation of auto sizes and some other layout functions.
+    * min() / max() 
+        * font-size: min(5vw, 1.2em);
+        * width:max(100px, 18vw);
+    * 
         
 
 
