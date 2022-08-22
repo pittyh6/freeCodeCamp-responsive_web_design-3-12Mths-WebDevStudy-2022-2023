@@ -27,6 +27,7 @@
 * Learn CSS Flexbox by Building a Photo Gallery [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_CSS_flexbox_by_building_a_photo_gallery)
 * Learn Typography by Building a Nutrition Label [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_typography_by_building_a_nutrition_label)
 * Learn Accessibility by Building a Quiz [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_accessibility_by_building_a_quiz)
+* 🎯 Certification Project - Tribute Page [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/tribute_page) 🥇
 
 
 ## Previous Projects
