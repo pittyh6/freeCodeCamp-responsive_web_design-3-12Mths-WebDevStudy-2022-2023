@@ -38,7 +38,8 @@
     * The aria-labelledby property enables authors to reference other elements on the page to define an accessible name. This is useful when using elements that don't have native support for associating elements to provide an accessible name.
 
 
-        
+    * aria-hidden -> It is a semantic indicator of state in HTML code. If this attribute is used then browsers will not display elements that have the hidden attribute specified.
+    * caption -> HTML tables use the caption element to describe what the table is about. The caption element should always be the first child of a table, but can be positioned with the caption-side CSS property.
    
 
 ![End Banner](/Documentation/botton-1200x350.gif)
