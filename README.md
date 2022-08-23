@@ -17,6 +17,10 @@
 * SASS [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
 -->
 
+ ## Final projects + Result
+* 🎯 Certification Project - Survey Form [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/survey_form) 🥇
+* 🎯 Certification Project - Tribute Page [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/tribute_page) 🥇
+
  ## Project + Result
 * Learn HTML by Building a Cat Photo App [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_HTML_by_building_a_cat_photo_app)
 * Learn Basic CSS by Building a Cafe Menu [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_basic_CSS_by_building_a_cafe_menu)
