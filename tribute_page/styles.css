@@ -1,0 +1,25 @@
+body {
+  background-image: linear-gradient(
+    hsla(47, 69%, 51%, 0.305),
+    hsla(16, 90%, 60%, 0.603)
+  );
+}
+main {
+  width: 90%;
+  height: 100vh;
+  text-align: center;
+  margin: auto;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 10px auto;
+}
+a {
+  color: rgb(224, 90, 23);
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+}

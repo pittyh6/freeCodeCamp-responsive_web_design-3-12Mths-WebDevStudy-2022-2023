@@ -1,4 +1,4 @@
 # Result
 
-![Begin Banner](tribute.gif)
+![Begin Banner](tribute.png)
 
