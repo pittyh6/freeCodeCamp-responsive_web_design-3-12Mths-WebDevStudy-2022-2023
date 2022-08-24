@@ -34,6 +34,7 @@
 * 🎯 Certification Project - Tribute Page [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/tribute_page) 🥇
 * Learn More About CSS Pseudo Selectors By Building A Balance Sheet [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_more_bout_CSS_pseudo_selectors_by_building_a_balance_sheet)
 * Learn Intermediate CSS by Building a Picasso Painting [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_intermediate_CSS_by_building_a_picasso_painting)
+* Learn Responsive Web Design by Building a Piano [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_responsive_web_design_by_building_a_piano)
 
 ## Previous Projects
 * (1 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/1-12Mths-WebDevelopmentStudy-2022-2023)
