@@ -17,11 +17,11 @@
 * SASS [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
 -->
 
- ## Final projects + Result
+ ## Final projects + Result 🎉
 * 🎯 Certification Project - Survey Form [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/survey_form) 🥇
 * 🎯 Certification Project - Tribute Page [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/tribute_page) 🥇
 
- ## Project + Result
+ ## Project + Result 📈
 * Learn HTML by Building a Cat Photo App [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_HTML_by_building_a_cat_photo_app)
 * Learn Basic CSS by Building a Cafe Menu [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_basic_CSS_by_building_a_cafe_menu)
 * Learn CSS Colors by Building a Set of Colored Markers [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_CSS_colors_by_building_a_set_of_colored_markers)
@@ -34,7 +34,7 @@
 * 🎯 Certification Project - Tribute Page [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/tribute_page) 🥇
 * Learn More About CSS Pseudo Selectors By Building A Balance Sheet [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_more_bout_CSS_pseudo_selectors_by_building_a_balance_sheet)
 
-## Previous Projects
+## Previous Projects 🗂
 * (1 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/1-12Mths-WebDevelopmentStudy-2022-2023)
 * (2 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/2-12Mths-WebDevelopmentStudy-2022-2023) (HTML, CSS, JS, ES6-ES2015, NPM, JQuery)
 * (2 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023) (Johns Hopkins Uni - HTML, CSS, JavaScript)
