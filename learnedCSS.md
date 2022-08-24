@@ -80,6 +80,17 @@
         * Note: The clip property does not work if "overflow:visible".
         * Note: The clip property is deprecated and will be replaced by the clip-path property in the future.
 
+
+
+    * selector Includes
+        * span[class~="sr-only"] -> all span tag that has the sr-only class in it.
+    * clip -> The clip CSS property defines a visible portion of an element. The clip property applies only to absolutely positioned elements — that is, elements with position:absolute or position:fixed.
+        * clip: rect(1px, 1px, 1px, 1px)
+    * Clip-path -> The clip-path property determines the shape the clip property should take. -> The clip-path CSS property creates a clipping region that sets what part of an element should be shown. Parts that are inside the region are shown, while those outside are hidden.
+    * white-space -> The white-space CSS property sets how white space inside an element is handled.
+
+
+
         
 
 

@@ -8,12 +8,12 @@
 ## What I learned/used 
 ### Resources
 * learning
-    * 
+    * clip: https://developer.mozilla.org/en-US/docs/Web/CSS/clip
+    * clip-path: https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path
+    * -webkit: https://developer.mozilla.org/en-US/docs/Glossary/WebKit
 
         
-* Resources for Asking Questions
-    * 
-    * 
+
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)
