@@ -14,7 +14,9 @@
     * position: https://developer.mozilla.org/en-US/docs/Web/CSS/position
 
         
-
+* Extra links
+    * fontAwesome: < link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)

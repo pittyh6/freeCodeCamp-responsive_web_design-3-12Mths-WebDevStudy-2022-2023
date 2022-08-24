@@ -89,6 +89,8 @@
     * Clip-path -> The clip-path property determines the shape the clip property should take. -> The clip-path CSS property creates a clipping region that sets what part of an element should be shown. Parts that are inside the region are shown, while those outside are hidden.
     * white-space -> The white-space CSS property sets how white space inside an element is handled.
     * calc() ->The calc() CSS function lets you perform calculations when specifying CSS property values. It can be used anywhere a <length>, <frequency>, <angle>, <time>, <percentage>, <number>, or <integer> is allowed. --> The calc() function is a CSS function that allows you to calculate a value based on other values. For example, you can use it to calculate the width of the viewport minus the margin of an element:
+    * position absolute
+    * z-index
 
 
 
