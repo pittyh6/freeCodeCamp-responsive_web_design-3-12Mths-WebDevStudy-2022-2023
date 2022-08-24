@@ -20,6 +20,7 @@
  ## Final projects + Result 
 * 🎯 Certification Project - Survey Form [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/survey_form) 🥇
 * 🎯 Certification Project - Tribute Page [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/tribute_page) 🥇
+* 🎯 Certification Project - Technical Documentation Page [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/technical_documentation_page) 🥇
 
  ## Project + Result 
 * Learn HTML by Building a Cat Photo App [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_HTML_by_building_a_cat_photo_app)
@@ -35,7 +36,7 @@
 * Learn More About CSS Pseudo Selectors By Building A Balance Sheet [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_more_bout_CSS_pseudo_selectors_by_building_a_balance_sheet)
 * Learn Intermediate CSS by Building a Picasso Painting [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_intermediate_CSS_by_building_a_picasso_painting)
 * Learn Responsive Web Design by Building a Piano [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_responsive_web_design_by_building_a_piano)
-* 🎯 Certification Project - Technical Documentation Page[link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/technical_documentation_page) 🥇
+* 🎯 Certification Project - Technical Documentation Page [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/technical_documentation_page) 🥇
 
 
 ## Previous Projects
