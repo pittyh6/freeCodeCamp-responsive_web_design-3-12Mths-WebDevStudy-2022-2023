@@ -1,4 +1,4 @@
 # Result
 
-![Begin Banner](picasso.gif)
+![Begin Banner](picasso.png)
 
