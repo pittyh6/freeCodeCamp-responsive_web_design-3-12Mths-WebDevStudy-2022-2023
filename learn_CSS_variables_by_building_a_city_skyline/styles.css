@@ -1,5 +1,4 @@
 * {
-  border: 1px solid black;
   box-sizing: border-box;
 }
 :root {
@@ -16,6 +15,15 @@ body {
   height: 100vh;
   margin: 0;
   overflow: hidden;
+}
+.sky {
+  background: radial-gradient(
+    circle closest-corner at 15% 15%,
+    #ffcf33 0%,
+    #ffcf33 20%,
+    #ffff66 21%,
+    #bbeeff 100%
+  );
 }
 .background-buildings {
   width: 100%;
