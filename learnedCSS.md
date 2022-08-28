@@ -91,7 +91,8 @@
     * calc() ->The calc() CSS function lets you perform calculations when specifying CSS property values. It can be used anywhere a <length>, <frequency>, <angle>, <time>, <percentage>, <number>, or <integer> is allowed. --> The calc() function is a CSS function that allows you to calculate a value based on other values. For example, you can use it to calculate the width of the viewport minus the margin of an element:
     * position absolute
     * z-index
-
+    
+    * html{font-size:62.5%;} This will set the default font size for your web page to 10px (the browser default is 16px). 
 
 
 
