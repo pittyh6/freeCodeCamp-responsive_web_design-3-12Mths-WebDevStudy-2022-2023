@@ -94,6 +94,7 @@
     
     * html{font-size:62.5%;} This will set the default font size for your web page to 10px (the browser default is 16px). 
 
+    * object-fit: The object-fit property tells the browser how to position the element within its container. In this case, cover will set the image to fill the container, cropping as needed to avoid changing the aspect ratio.
 
 
         
