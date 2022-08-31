@@ -1,5 +1,8 @@
 # Result
 ## Desktop
-![Begin Banner](desktop.png)
-## Table/Ipad/mobile
-![Begin Banner](mobile.png)
+![Begin Banner](desktop.gif)
+## Table/Ipad
+![Begin Banner](tablet.gif)
+## mobile
+![Begin Banner](mobile.gif)
+
