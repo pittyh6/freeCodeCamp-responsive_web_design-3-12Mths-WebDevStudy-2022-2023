@@ -10,23 +10,32 @@
 </head>
 
 <body>
-    <header id="header">
-        <img src="./img/logo2.png" alt="Logo" id="header-img" width="20%">
-        <nav id="nav-bar">
-            <ul>
-                <li class="nav-link"><a href="#"></a></li>
-                <li class="nav-link"><a href="#"></a></li>
-                <li class="nav-link"><a href="#"></a></li>
-            </ul>
-        </nav>
-    </header>
-    <section>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/DZQjoGiiEqQ" title="YouTube video player"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen>
-        </iframe>
-    </section>
+    <main id="main">
+        <header id="header">
+            <img src="./img/logo2.png" alt="Logo" id="header-img" width="20%">
+            <nav id="nav-bar">
+                <ul>
+                    <li><a class="nav-link" href="#header">Features</a></li>
+                    <li><a class="nav-link" href="#video-sec">Content</a></li>
+                    <li><a class="nav-link" href="#form-sec">Form</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section id="video-sec">
+            <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/DZQjoGiiEqQ" title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+            </iframe>
+        </section>
+        <section id="form-sec">
+            <form action="https://www.freecodecamp.com/email-submit" id="form">
+                <input id="email" name="email" pattern="[^ @]*@[^ @]*" type="email" placeholder="Enter your email" required>
+                <input id="submit" type="submit" value="Get Started"> 
+            </form>
+        </section>
+    </main>
+    
 </body>
 
 </html>
