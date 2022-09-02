@@ -3,4 +3,79 @@
 *::before {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(
+    hsla(47, 69%, 51%, 0.305),
+    hsla(16, 90%, 60%, 0.603)
+  );
+}
+main {
+  width: 90%;
+  margin: auto;
+}
+a {
+  text-decoration: none;
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 1.2rem;
+  color: rgb(165, 49, 49);
+}
+li {
+  list-style: none;
+  display: inline-block;
+}
+h2 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 1.7rem;
+  color: rgb(165, 49, 49);
+}
+p{
+    font-family: sans-serif;
+    font-size: 1rem;
+    margin: 2rem 0;
+    line-height: 1.5rem;
+    text-align: left;
+}
+#header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  position: fixed;
+  width: 90%;
+}
+#header-img{
+    width: 18%;
+}
+#nav-bar {
+  width: 40%;
+  margin: auto 0;
+}
+#nav-bar ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+#video-sec{
+    padding-top: 15%;
+    width: 100%;
+    text-align: center;
+}
+#video{
+    width: 70vw;
+    height: 70vh;
+}
+
+
+@media only screen and (max-width:600px){
+    #nav-bar {
+        width: 60%;
+      }
+      #header-img{
+        width: 30%;
+    }
+    #video-sec{
+        padding-top: 30%;
+    }
 }
