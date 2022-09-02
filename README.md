@@ -41,6 +41,7 @@
 * Learn CSS Variables by Building a City Skyline [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_CSS_variables_by_building_a_city_skyline)
 * Learn CSS Grid by Building a Magazine [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_CSS_grid_by_building_a_magazine)
 * 🎯 Certification Project - Product Landing Page [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/product_landing_page) 🥇
+* Learn CSS Animation by Building a Ferris Wheel [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_CSS_animation_by_building_a_ferris_wheel)
 
 ## Previous Projects
 * (1 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/1-12Mths-WebDevelopmentStudy-2022-2023)
