@@ -97,7 +97,8 @@
     * object-fit: The object-fit property tells the browser how to position the element within its container. In this case, cover will set the image to fill the container, cropping as needed to avoid changing the aspect ratio.
 
 
-        
+    * Animation
+        * transform-origin => property is used to set the point around which a CSS transformation is applied. For example, when performing a rotate, the transform-origin determines around which point the element is rotated.
 
 
 
