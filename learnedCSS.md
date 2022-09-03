@@ -99,6 +99,9 @@
 
     * Animation
         * transform-origin => property is used to set the point around which a CSS transformation is applied. For example, when performing a rotate, the transform-origin determines around which point the element is rotated.
+        * @keyframes -> The @keyframes at-rule is used to define the flow of a CSS animation. Within the @keyframes rule, you can create selectors for specific points in the animation sequence, such as 0% or 25%, or use from and to to define the start and end of the sequence.
+
+
 
 
 
