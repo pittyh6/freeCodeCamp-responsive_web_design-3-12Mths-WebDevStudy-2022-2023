@@ -126,15 +126,29 @@ body {
   background-color: orange;
   border-radius: 50%;
 }
-.beak.top{
-    width: 20%;
-    top: 60%;
-    left: 40%;
+.beak.top {
+  width: 20%;
+  top: 60%;
+  left: 40%;
 }
-.beak.bottom{
-    width: 16%;
-    top: 65%;
-    left: 42%;
+.beak.bottom {
+  width: 16%;
+  top: 65%;
+  left: 42%;
+}
+.shirt {
+  font-size: 25px;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  left: 127.5px;
+  top: 165px;
+  z-index: 1;
+  color: #6a6969;
+}
+.shirt div {
+  font-weight: initial;
+  top: 22.5px;
+  left: 12px;
 }
 .penguin-body {
   width: 53%;
@@ -159,4 +173,9 @@ body {
   left: 25%;
   border-radius: 0% 0% 100% 100%;
   opacity: 70%;
+}
+.foot{
+    width: 15%;
+    height:30%;
+    background-color: orange;
 }
