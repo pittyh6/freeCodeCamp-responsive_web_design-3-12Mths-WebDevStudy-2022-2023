@@ -106,6 +106,9 @@
         * animation-timing-function  => The animation-timing-function property sets how the animation should progress over time. There are a few different values for this property
         * ease-in-out => the ease-in-out timing function setting will tell the animation to start and end at a slower pace, but move more quickly in the middle of the cycle.
 
+    * transform shapes
+        * skew => the skew transform function, which takes two arguments. The first being an angle to shear the x-axis by, and the second being an angle to shear the y-axis by.
+
 
 
 
