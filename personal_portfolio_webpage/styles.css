@@ -9,10 +9,11 @@ li {
 }
 a {
   text-decoration: none;
-  color: #fff
+  color: #fff;
 }
-p{
-    color: #a93838;
+p {
+  color: #a93838;
+  padding-top: 15px;
 }
 body {
   font-family: Helvetica, sans-serif;
@@ -26,16 +27,19 @@ body {
   width: 100%;
   overflow-x: hidden;
 }
-#navbar{
-    background-color: #8c4c4c;
-    width: 100vw;
-    margin:auto;
+#navbar {
+  background-color: #8c4c4c;
+  width: 100vw;
+  margin: auto;
 }
-#navbar>ul{
-    display: flex;
-    justify-content: flex-end;
+#navbar > ul {
+  display: flex;
+  justify-content: flex-end;
 }
-#navbar>ul>li{
-    padding: 20px;
+#navbar > ul > li {
+  padding: 20px;
 }
-
+#welcome-section {
+  text-align: center;
+  margin: 20% auto;
+}
