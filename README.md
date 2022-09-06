@@ -22,6 +22,7 @@
 * 🎯 Certification Project - Tribute Page [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/tribute_page) 🥇
 * 🎯 Certification Project - Technical Documentation Page [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/technical_documentation_page) 🥇
 * 🎯 Certification Project - Product Landing Page [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/product_landing_page) 🥇
+* 🎯 Certification Project - Personal Portfolio Webpage [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/personal_portfolio_webpage) 🥇
 
  ## Project + Result 
 * Learn HTML by Building a Cat Photo App [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_HTML_by_building_a_cat_photo_app)
@@ -43,6 +44,7 @@
 * 🎯 Certification Project - Product Landing Page [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/product_landing_page) 🥇
 * Learn CSS Animation by Building a Ferris Wheel [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_CSS_animation_by_building_a_ferris_wheel)
 * Learn CSS Transforms by Building a Penguin [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/learn_CSS_transforms_by_building_a_penguin)
+* 🎯 Certification Project - Personal Portfolio Webpage [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/tree/master/personal_portfolio_webpage) 🥇
 
 
 ## Previous Projects
