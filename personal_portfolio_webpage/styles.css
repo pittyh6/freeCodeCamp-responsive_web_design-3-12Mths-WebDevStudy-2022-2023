@@ -1,0 +1,27 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #522525
+}
+p{
+    color: #a93838;
+}
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 1.5rem;
+  color: rgb(69, 69, 69);
+  background: linear-gradient(
+    hsla(47, 69%, 51%, 0.305),
+    hsla(16, 90%, 60%, 0.603)
+  );
+  height: 100vh;
+  width: 100%;
+}
